@@ -1,0 +1,23 @@
+{
+  "name": "foodordering_app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@next/font": "13.1.1",
+    "@paypal/react-paypal-js": "^7.8.2",
+    "@reduxjs/toolkit": "^1.9.1",
+    "axios": "^1.2.3",
+    "mongoose": "^6.8.3",
+    "next": "^13.4.19",
+    "react": "18.2.0",
+    "react-cookie": "^4.1.1",
+    "react-dom": "18.2.0",
+    "react-redux": "^8.0.5"
+  }
+}
